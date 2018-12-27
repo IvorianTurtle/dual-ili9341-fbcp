@@ -12,7 +12,7 @@ I modified it so that the Raspberry Pi could be used with dual ili9341 screen
           *                            *
           *                            *
           *                            *
- 240px    *      screen 1              *
+          *      screen 1              *   240px
           *                            *
           *                            *
           *                            *
@@ -20,7 +20,7 @@ I modified it so that the Raspberry Pi could be used with dual ili9341 screen
           *                            *
           *                            *
           *                            *
- 240px    *     screen 2               *
+          *     screen 2               *  240px
           *                            *
           *                            *
           *                            *
